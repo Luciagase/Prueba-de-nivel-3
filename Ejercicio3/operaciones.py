@@ -13,7 +13,7 @@ def resta(a,b):
         print("Error: Tipo de dato no válido")
     else:
         return r
-def multiplicacion(a,b):
+def producto(a,b):
     try:
         r=a*b
     except TypeError:
